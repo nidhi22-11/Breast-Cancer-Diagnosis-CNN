@@ -15,11 +15,7 @@ This project implements a **Convolutional Neural Network (CNN)** to predict brea
 - Activation function: ReLU in hidden layers, Sigmoid in output  
 
 ## Performance Metrics
-- **Accuracy:** XX%  
-- **Precision:** XX%  
-- **Recall:** XX%  
-
-*(Replace XX with your model results from Colab)*
+- **Accuracy:** 98%  
 
 ## How to Run
 1. Clone the repository:
